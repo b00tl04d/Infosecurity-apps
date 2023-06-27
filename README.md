@@ -3,6 +3,11 @@
 PSEC-CA1-2 assignment, coded in Python.  
 Functionality includes nmap scans, FTP server + client, and sending custom packets.  
 
+Install dependencies  
+```bash
+pip install -r requirements.txt
+```
+
 ## Sample Usage  
 Nmap scan  
 ![image](https://github.com/b00tl04d/Infosecurity-apps/assets/108401257/17451a6f-ec5c-40db-b9bf-6a997162ab55)
