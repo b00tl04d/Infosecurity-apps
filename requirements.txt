@@ -2,3 +2,4 @@ python-magic-bin
 python-nmap
 scapy
 rich
+pyftpdlib
